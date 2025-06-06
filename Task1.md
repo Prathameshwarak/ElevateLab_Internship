@@ -1,9 +1,16 @@
-1.Install Nmap from official website.
+## 1.Install Nmap from official website.
 ![Task1](Images/task1_1.png)
-2.Find your local IP range (e.g., 192.168.1.0/24).
-3.Run: nmap -sS 192.168.1.0/24 to perform TCP SYN scan.
-4.Note down IP addresses and open ports found.
-5.Optionally analyze packet capture with Wireshark.
-6.Research common services running on those ports.
-7.Identify potential security risks from open ports.
-8.Save scan results as a text or HTML file.
+## 2.Find your local IP range (e.g., 192.168.1.0/24).
+![Task1](Images/task1_2.png)
+## 3.Run: nmap -sS 192.168.1.0/24 to perform TCP SYN scan.
+![Task1](Images/task1_3.png)
+## 4.Note down IP addresses and open ports found.
+
+## 5.Optionally analyze packet capture with Wireshark.
+
+## 6.Research common services running on those ports.
+
+## 7.Identify potential security risks from open ports.
+
+## 8.Save scan results as a text or HTML file.
+
